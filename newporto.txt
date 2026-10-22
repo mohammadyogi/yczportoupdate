@@ -1,0 +1,30 @@
+  <p class="sec-eyebrow">03 — Experience</p>
+  <h2 class="sec-title">Work <span>Experience</span></h2>
+  <div class="exp-timeline">
+    <div class="exp-item">
+      <div class="exp-dot"></div>
+      <div class="exp-date">2025 — 2026 <span class="exp-company">CreatorX</span></div>
+      <p class="exp-title">Ambassador — CreatorX (SocialFi)</p>
+      <p class="exp-desc">Served as official ambassador for CreatorX, a SocialFi project, representing the brand across Indonesian crypto communities. Organized and headlined an offline campus seminar at <strong style="color:var(--white)">UIN Mataram</strong> in collaboration with Bitget, CreatorX, and The Insight — delivering product knowledge to students and introducing them to the digital economy.</p>
+      <div class="tags"><span class="tag">SocialFi</span><span class="tag">Ambassador</span><span class="tag">Offline Event</span><span class="tag">Bitget</span><span class="tag">Public Speaking</span><span class="tag">Product Pitch</span></div>
+    </div>
+    <div class="exp-item">
+      <div class="exp-dot"></div>
+      <div class="exp-date">2024 — Present <span class="exp-company">Telegram</span></div>
+      <p class="exp-title">Owner & Community Lead — Airdrop Empire</p>
+      <p class="exp-desc">Founded and lead Airdrop Empire, a Telegram-based crypto community providing alpha calls, airdrop guides, DeFi strategies, and Web3 education. Built and maintain an engaged audience of early-stage crypto enthusiasts in Indonesia and globally.</p>
+      <div class="tags"><span class="tag">Airdrop</span><span class="tag">Community</span><span class="tag">Telegram</span><span class="tag">Web3 Education</span><span class="tag">DeFi</span><span class="tag">Alpha Calls</span></div>
+    </div>
+  </div>
+</div></section>
+
+<!-- GALLERY -->
+<section id="gallery"><div class="reveal">
+  <p class="sec-eyebrow">04 — Gallery</p>
+  <h2 class="sec-title">Event <span>Gallery</span></h2>
+  <p class="gallery-intro">Bitget & CreatorX Goes To Campus — UIN Mataram, April 6, 2026</p>
+  <div class="gallery-grid" id="galleryGrid"></div>
+</div></section>
+
+<!-- ACHIEVEMENTS -->
+<section id="achievements"><div class="reveal">
